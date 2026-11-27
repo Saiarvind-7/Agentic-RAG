@@ -1,0 +1,26 @@
+[
+  {
+    "question": "How many days of paid annual leave do employees get each year?",
+    "ground_truth": "Employees get 24 days of paid annual leave per calendar year, building up at 2 days per month."
+  },
+  {
+    "question": "How many unused leave days can I carry over, and when must I use them?",
+    "ground_truth": "Up to 10 unused days can be carried over, and they must be used by March 31."
+  },
+  {
+    "question": "How many days a week do I have to be in the office?",
+    "ground_truth": "At least 3 days a week. Tuesday, Wednesday and Thursday are the core days."
+  },
+  {
+    "question": "How quickly must a lost laptop be reported and to whom?",
+    "ground_truth": "Within 2 hours, to security@northwind.example."
+  },
+  {
+    "question": "What does POL-305 say about passwords?",
+    "ground_truth": "Passwords must be at least 14 characters long and multi-factor authentication is required for email, the code repository and the cloud console."
+  },
+  {
+    "question": "Can I work from another city, and for how long?",
+    "ground_truth": "Yes, with manager approval for up to 20 days per calendar year, requested at least 10 working days ahead."
+  }
+]
